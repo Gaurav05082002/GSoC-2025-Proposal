@@ -1,6 +1,9 @@
 the api key is just a sample text, you have to create your own api key for setting up the env from https://aistudio.google.com/apikey 
 # Gemini API Workspace - README
 
+## video demo link 
+watch [demo video](https://youtu.be/SQiJpRjencI) 
+
 ## 🔑 How to Get Your API Key
 To begin using the Gemini API Workspace, follow the steps below to obtain your API key:
 
