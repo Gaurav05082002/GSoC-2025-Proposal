@@ -2,7 +2,7 @@ the api key is just a sample text, you have to create your own api key for setti
 # Gemini API Workspace - README
 
 ## video demo link 
-watch [demo video](https://youtu.be/SQiJpRjencI) 
+watch [demo video](https://youtu.be/Hy8DI9gHK2I) 
 
 ## 🔑 How to Get Your API Key
 To begin using the Gemini API Workspace, follow the steps below to obtain your API key:
