@@ -56,6 +56,8 @@ The API returns a JSON containing generated text.
   - **Fix:** Use the correct API key
 
 ---
+![image](https://github.com/user-attachments/assets/4322bfef-2196-42ba-9765-4700217eec59)
+
 
 ### 2. **Text Generation with Parameters**
 
@@ -75,6 +77,8 @@ The API returns a structured JSON containing the generated text.
 - Same as above
 
 ---
+![image](https://github.com/user-attachments/assets/aa3d5b1e-2320-4fcb-bda2-1a483e8f4f29)
+
 
 ### 3. **Chat Conversation**
 
@@ -92,6 +96,8 @@ Returns the model’s response as part of an ongoing conversation.
 - Same as above
 
 ---
+![image](https://github.com/user-attachments/assets/df35b06c-1180-473c-b6c8-9f342f9d5e1f)
+
 
 ### 4. **System Instructions**
 
@@ -109,6 +115,8 @@ Returns a response shaped by the predefined instructions.
 - Same as above
 
 ---
+![image](https://github.com/user-attachments/assets/cbe57df9-448b-43c2-a547-deb0a4ec9e67)
+
 
 # 🖼️ Image Generation APIs
 
@@ -129,6 +137,8 @@ Returns an image (base64 encoded) and text describing it.
 - Same as above
 
 ---
+![image](https://github.com/user-attachments/assets/f38aa3bf-458f-4fad-99f7-0a40c58ef5c0)
+
 
 ### 2. **Image Editing with Base64 Image Input**
 
@@ -148,6 +158,8 @@ Returns the edited image along with any accompanying text.
 - Same as above
 
 ---
+![image](https://github.com/user-attachments/assets/8df89570-6526-4095-82d7-a9d744501b93)
+
 
 ### 3. **Image Generation using Imagen 3**
 
@@ -167,6 +179,8 @@ A JSON object with generated image(s) in base64 format.
 - Same as above
 
 ---
+![image](https://github.com/user-attachments/assets/a6ddc765-5822-4ed6-8dd6-c07a1a1d589c)
+
 
 ## 📫 Contact
 If you encounter issues or have suggestions, feel free to raise an issue in the GitHub repository.
