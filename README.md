@@ -16,6 +16,11 @@ To begin using the Gemini API Workspace, follow the steps below to obtain your A
 Keep this information safe and secure—it will be needed in the next step.
 
 ---
+## Abstract 
+Gemini API Workspace is a fully structured and developer-friendly Postman setup designed to streamline interaction with Google’s Gemini API suite. It provides organized collections for key functionalities like text generation, image generation, code generation, chat, long-context processing, vision, and audio understanding. Equipped with pre-configured environments, detailed documentation, mock servers, and test scripts, this workspace enables both beginners and experienced developers to explore, test, and integrate Gemini’s powerful multimodal capabilities efficiently and with minimal setup effort.
+
+---
+![image](https://github.com/user-attachments/assets/0f2a0849-fcfc-45e6-8f9a-aef25a0f7acd)
 
 ## 🛠️ How to Set Up the Workspace Locally
 
