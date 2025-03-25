@@ -19,7 +19,7 @@ Keep this information safe and secure—it will be needed in the next step.
 
 ## 🛠️ How to Set Up the Workspace Locally
 
-1. Download the `Gemini API Workspace PROTOTYPE.postman_collection.json` file.
+1. Download the [`Gemini API Workspace PROTOTYPE.postman_collection`](https://github.com/Gaurav05082002/GSoC-2025-Proposal/blob/main/Gemini%20API%20Workspace%20PROTOTYPE.postman_collection) file.
 2. Open Postman and click on **Import** in the top left corner.
 3. Import the downloaded collection file.
 4. The Gemini API Workspace will be created automatically in your Postman app.
