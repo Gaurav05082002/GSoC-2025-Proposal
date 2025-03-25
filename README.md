@@ -23,7 +23,7 @@ Keep this information safe and secure—it will be needed in the next step.
 2. Open Postman and click on **Import** in the top left corner.
 3. Import the downloaded collection file.
 4. The Gemini API Workspace will be created automatically in your Postman app.
-5. Download the corresponding **environment files** (Testing and Production).
+5. Download the corresponding **environment files** ([Testing](https://github.com/Gaurav05082002/GSoC-2025-Proposal/blob/main/Gemini%20Testing%20Environment.postman_environment.json) and Production).
 6. Open Postman, go to **Environments**, and import these `.env` files.
 7. Update the `GEMINI_API_KEY`, `PROJECT_ID`, and `BASE_URL` fields with your details.
 8. Set the desired environment (Testing or Production) as active in Postman.
